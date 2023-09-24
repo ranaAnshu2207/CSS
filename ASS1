@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>San Francisco EcoAlliance</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Logo</div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Events</a></li>
+                <li><a href="#">Get Involved</a></li>
+            </ul>
+        </nav>
+        <div class="search-bar">Search Bar</div>
+    </header>
+    <section class="hero">
+        <img src="hero-image.jpg" alt="Hero Image">
+        <h1>Welcome to San Francisco EcoAlliance!</h1>
+        <p>Join us in making our city greener. Discover local initiatives, events, and volunteer opportunities.</p>
+        <a href="#" class="btn">Learn More</a>
+        <a href="#" class="btn">Get Involved</a>
+    </section>
+    <section class="about">
+        <img src="about-image.jpg" alt="About Image">
+        <h2>About San Francisco EcoAlliance</h2>
+        <p>We are a community-driven organization dedicated to environmental sustainability in the Bay Area. Learn about our mission, history, and team.</p>
+        <a href="#" class="btn">Our Mission</a>
+        <a href="#" class="btn">Meet the Team</a>
+    </section>
+    <section class="events">
+        <img src="events-image.jpg" alt="Events Image">
+        <h2>Upcoming Events</h2>
+        <p>Stay updated on our latest events and workshops. Join us in our efforts to protect our environment.</p>
+        <a href="#" class="btn">View Events</a>
+        <a href="#" class="btn">RSVP</a>
+    </section>
+    <section class="get-involved">
+        <img src="get-involved-image.jpg" alt="Get Involved Image">
+        <h2>Get Involved</h2>
+        <p>Make a difference today. Explore volunteer opportunities and be part of the change.</p>
+        <a href="#" class="btn">Volunteer Now</a>
+        <a href="#" class="btn">Donate</a>
+    </section>
+    <footer>
+        <div class="contact-info">Contact Information</div>
+        <div class="privacy-policy">Privacy Policy</div>
+        <div class="social-media-links">Social Media Links</div>
+    </footer>
+</body>
+</html>
